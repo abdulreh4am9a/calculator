@@ -1,0 +1,30 @@
+.main{
+    width: 29%;
+    text-align: center;
+    height: 100px;
+    margin: 0px auto;
+}
+.result {
+  width: 95%;
+  height: 100px;
+  background-color: rgb(8, 144, 255);
+  color: white;
+  font-size: 40px;
+}
+.clear{
+    width: 96%;
+    height: 100px;
+    margin-top:4px;
+    color: black;
+    font-size: 32px;
+    background-color: yellow;
+}
+.btn{
+    width: 23.5%;
+    height: 100px;
+    
+    margin-top: 1px;
+    font-size: 32px;
+    color:white;
+    background-color: red;
+}
